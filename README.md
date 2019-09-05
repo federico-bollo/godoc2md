@@ -1,1 +1,1 @@
-# I'm sorry I cannot offer support for this package any more. Feel free to fork it, you have the source, Luke.
+Just point to xtool version `release-branch.go1.11` to be able to continue building the project
